@@ -1,5 +1,5 @@
 # ENJOY
-This is a revised version of pointops in [PointTransformer](https://github.com/POSTECH-CVLab/point-transformer/tree/master/lib/pointops "PointTransformer")?
+This is a revised version of pointops in [PointTransformer](https://github.com/POSTECH-CVLab/point-transformer/tree/master/lib/pointops "PointTransformer")
 
 And the following issues are fixed.
 

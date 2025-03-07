@@ -22,7 +22,7 @@ https://github.com/huang-yh/GaussianFormer/issues/53
 
 ``` bash
 
-git clone 
+git clone https://github.com/xieyuser/pointops.git
 
 cd pointops
 

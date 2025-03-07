@@ -11,11 +11,13 @@ https://github.com/huang-yh/GaussianFormer/issues/53
 
 ## The main changes are as follows:
 
+``` bash
 1. comment all #include <THC/THC.h>
 
 2. add the import lines in \_\_init\_\_.py
 
 3. change the setup.py, fix the issue that the setup.py cannot work in python environments, shown as "no module named pointops"
+```
 
 ## How to use
 

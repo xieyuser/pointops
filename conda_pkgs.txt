@@ -1,0 +1,37 @@
+# cuda
+# if your cuda version > 11.7, you need to install the following packages
+cuda-cccl=12.1.109
+cuda-compiler=12.1.1
+cuda-cudart=12.1.105
+cuda-cudart-dev=12.1.105
+cuda-cudart-static=12.1.105
+cuda-cuobjdump=12.1.111
+cuda-cuxxfilt=12.1.105
+cuda-demo-suite=12.1.105
+cuda-documentation=12.1.105
+cuda-driver-dev=12.1.105
+cuda-gdb=12.1.105
+cuda-libraries=12.1.0
+cuda-libraries-dev=12.1.0
+cuda-nsight=12.1.105
+cuda-nsight-compute=12.1.1
+cuda-nvcc=12.1.105
+cuda-nvdisasm=12.1.105
+cuda-nvml-dev=12.1.105
+cuda-nvprof=12.1.105
+cuda-nvprune=12.1.105
+cuda-nvrtc=12.1.105
+cuda-nvrtc-dev=12.1.105
+cuda-nvvp=12.1.105
+cuda-opencl=12.1.105
+cuda-opencl-dev=12.1.105
+cuda-profiler-api=12.1.105
+cuda-runtime=12.1.0
+cuda-sanitizer-api=12.1.105
+
+# if your cuda version is lower than 11.7, you need to install:
+# cudatoolkit-dev
+# and this operation will build many *.so on your computer, which will be very slow and time-consuming
+
+# build (similar with sudo apt install build-essential)
+cxx-compiler=1.5.0

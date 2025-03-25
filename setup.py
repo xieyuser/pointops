@@ -14,7 +14,7 @@ setup(
     author='Hengshuang Zhao',
     packages=find_packages(),
     ext_modules=[
-        CUDAExtension('pointops_cuda',
+        CUDAExtension('pointops.C_',
             [
                 'src/pointops_api.cpp',
                 'src/knnquery/knnquery_cuda.cpp',

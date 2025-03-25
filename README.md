@@ -32,6 +32,8 @@ python setup.py install
 
 python
 
-import pointops
+# note that, these is no need to import pointops, we do not need this.
+import torch
+import pointops_cuda
 ```
 
